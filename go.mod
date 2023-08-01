@@ -1,4 +1,4 @@
-module github.com/go-gota/gota
+module github.com/clickadilla/gota
 
 go 1.16
 
